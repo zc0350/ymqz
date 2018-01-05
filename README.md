@@ -1,4 +1,4 @@
-# ymqz
+# IP/Whois Lookup System
 This is a Domain/IP Whois Lookup System.
 you can see it at website: https://www.ymqz.cn
 It's well work at PHP5.3 + mysql + apache
