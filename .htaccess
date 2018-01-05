@@ -1,0 +1,11 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^ymqz.cn$ [NC]
+RewriteRule ^(.*)$ https://www.ymqz.cn/$1 [R=301,L]
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule ^(.*)$ https://www.ymqz.cn/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+RewriteRule \.svn\/  /404.html

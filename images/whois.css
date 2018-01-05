@@ -1,0 +1,43 @@
+body{ background:#ffffff; margin:0 auto; padding:0; font-size:12px; color:#333333; font-family: "Arial","ËÎÌו";}
+a:link{ color:#333333; font-weight:normal; text-decoration:none;}
+a:visited {color: #333333;      text-decoration:none;}
+a:hover{color:#ff6600;  text-decoration:underline;}
+a:active {color:#ff6600; text-decoration:underline;}
+.fontred{color:#FF0000; text-decoration:none;}
+.linkblue_query:link,.linkblue_query:visited{color:#48607a;     text-decoration:underline;}
+.linkblue_query:hover,.linkblue_query:active{color:#ec7400;     text-decoration:underline;}
+.link_gl{color:#333333; text-decoration:underline;}
+a.link_gl:link{ color:#333333; font-weight:normal; text-decoration:underline;}
+a.link_gl:visited {color: #333333;      text-decoration:underline;}
+a.link_gl:hover{color:#ff6600;  text-decoration:underline;}
+a.link_gl:active {color:#ff6600; text-decoration:underline;}
+.link_b{color:#0066cc; text-decoration:underline; line-height:24px;}
+a.link_b:link{color:#0066cc; font-weight:normal; text-decoration:underline;}
+a.link_b:visited {color: #0066cc;       text-decoration: underline;}
+a.link_b:hover{color:#ff6600;  text-decoration:underline;}
+a.link_b:active {color:#ff6600; text-decoration:underline;}
+.form01{margin:0;}
+.door{ margin:0 auto; width:700px; padding-top:6px; text-align:right;}
+.logo{  margin:0 auto; width:700px; height:103px;}
+.logo2{ background:url(logo_whois.gif) no-repeat top; float:left; height:53px; margin-top:30px; width:302px;}
+.whois{ background:url(rim_body.gif) repeat-y; margin:0 auto; width:700px;}
+.whois_bottom{  background:url(rim_bottom.gif) no-repeat bottom; height:26px;}
+.whois_body{ background:url(rim_top.gif) no-repeat top; padding:30px 0 30px 80px; margin-bottom:20px; }
+.whois_01{      font-size:14px; color:#333333; padding:6px 0 0 0; float:left;}
+.whois_rimleft{ background:url(whois_left.gif) no-repeat left; float:left; height:26px; width:2px;}
+.whois_rim{ border-top:#bec8da 1px solid; border-bottom:#bec8da 1px solid; border-left:none; border-right:none; background-color:#FFFFFF; height:20px; float:left; width
+:300px; margin:0; padding:4px 0 0 4px; font-size:13px; font-family: "Arial", "Helvetica", "sans-serif";}
+.whois_result{ padding-top:20px; border-top:1px #bec8da solid; margin:0 auto; width:600px;}
+.wr{ padding-bottom:10px; text-align:left; line-height:20px;}
+.lh30{ line-height:30px;}
+.font16{ font-size:16px;}
+.whois_ad{ margin:0 auto; height:auto; overflow:hidden; width:700px; line-height:25px; padding:10px 0 20px 0; border-bottom:1px #cccccc solid;}
+.whois_ad ul li{ list-style:none; width:42px; float:left;line-height:18px;}
+.copyright{ clear:both; padding:20px; margin:0 auto; width:660px;}
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
