@@ -8,7 +8,6 @@ location / {
 }
 ymqz.sql.zip is a SQL database.
 
-////////
 这是一个开源的IP/域名WHOIS查询系统，
 你可以在网站：https://whois.cz9.cn 查看演示。
 本程序良好运行于：PHP5.3（或更新） + MYSQL + APACHE 工作环境。
