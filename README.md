@@ -1,11 +1,11 @@
 # IP/Whois Lookup System
 This is a Domain/IP Whois Lookup System.
-you can see it at website: https://www.ymqz.cn
+you can see it at website: https://whois.cz9.cn
 It's well work at PHP5.3 + mysql + apache
 ymqz.sql.zip is a SQL database.
 
 ////////
-ÕâÊÇÒ»¸ö¿ªÔ´µÄIP/ÓòÃûWHOIS²éÑ¯ÏµÍ³£¬
-Äã¿ÉÒÔÔÚÍøÕ¾£ºhttps://www.ymqz.cn ²é¿´ÑİÊ¾¡£
-±¾³ÌĞòÁ¼ºÃÔËĞĞÓÚ£ºPHP5.3 + MYSQL + APACHE ¹¤×÷»·¾³¡£
-ymqz.sql.zipÊÇÒ»¸öSQLÊı¾İ¿âÎÄ¼ş£¬Çë×ÔĞĞµ¼ÈëÄãµÄÊı¾İ¿â¡£
+è¿™æ˜¯ä¸€ä¸ªå¼€æºçš„IP/åŸŸåWHOISæŸ¥è¯¢ç³»ç»Ÿï¼Œ
+ä½ å¯ä»¥åœ¨ç½‘ç«™ï¼šhttps://whois.cz9.cn æŸ¥çœ‹æ¼”ç¤ºã€‚
+æœ¬ç¨‹åºè‰¯å¥½è¿è¡Œäºï¼šPHP5.3 + MYSQL + APACHE å·¥ä½œç¯å¢ƒã€‚
+ymqz.sql.zipæ˜¯ä¸€ä¸ªSQLæ•°æ®åº“æ–‡ä»¶ï¼Œè¯·è‡ªè¡Œå¯¼å…¥ä½ çš„æ•°æ®åº“ã€‚
